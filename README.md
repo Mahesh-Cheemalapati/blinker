@@ -1,17 +1,3 @@
-# Recreate the <blink/> tag
-Nostalgic for the web back in the 90's? Let's bring it back by implementing an HTML element that brought the fire to everyone's MySpace pages -- the blink tag.
-
-**For those of y'all that weren't around for it the blink tag did the following:**
-* was an HTML tag called `<blink>`
-* anything placed inside `<blink>example</blink>` would be visible for 1/4 of a second and then hidden for the subsequent 1/4 second.
-* This on/off cycle would loop endlessly
-
-## Instructions
-Using HTML, CSS, React/JSX, or any combination thereof, please create a blink element that meets these requirements:
-* Contents of the tag should alternate between **visible / invisible** in **.25 second intervals**.
-* Surrounding content should not shift in position as a result of the blinking content.
-* Applying/Removing the blink effect can be done by adding/removing a CSS class name or placing the content inside a React component.
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
